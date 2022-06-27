@@ -1,4 +1,4 @@
-# MNIST_hand_digit_recognition with numpy, pandas
+# MNIST_hand_digit_recognition with Numpy, Pandas
 Hand digit recognizer from scratch <br>
 Tech stack : Python, Numpy and Pandas <br>
 Training accuracy : 98.00 % <br> 
